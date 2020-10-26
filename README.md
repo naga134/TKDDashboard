@@ -73,7 +73,7 @@ npm install
 
 ## Creator
 
-Kelvin Conrad – [@YourTwitter](https://twitter.com/Klvnconrad) – YourEmail@example.com
+Kelvin Conrad – [Twitter](https://twitter.com/Klvnconrad) – klvnconrad@gmail.com
 
 
 ## Contributing
